@@ -1,0 +1,33 @@
+[
+    { 
+        "nama" : "Bramantyo",
+        "umur" : 23,
+        "nim" : "72140012",
+        "lulus" : true,
+        "hobby" : [ 
+            "ngoding",
+            "ngopi"
+            ],
+        "pembimbing" : {
+            "pembimbing1" :  "Yetli Oslan",
+            "pembibing2" :"Erick Kurniawan"
+        }
+
+    },
+
+    { 
+        "nama" : "Lorensia",
+        "umur" : 23,
+        "nim" : "72140012",
+        "lulus" : true,
+        "hobby" : [ 
+            "ngoding",
+            "ngopi"
+            ],
+        "pembimbing" : {
+        "pembimbing1" :  "Umi Oslan",
+            "pembibing2" :"Har Kurniawan"
+        }
+
+    }
+]

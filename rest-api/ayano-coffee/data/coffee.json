@@ -1,0 +1,61 @@
+{
+    "menu":[
+        {
+            "kategori": "espresso",
+            "nama" : "Americano",
+            "deskripsi": "Dibuat dari esspresso based dengan double shoot dan seduhan air panas yang membuat rasa kopi berasa",
+            "harga":"20000",
+            "gambar":"americano.jpg"
+
+        },
+        {
+            "kategori": "espresso",
+            "nama" : "Cappucino",
+            "deskripsi": "Dibuat dari esspreso based dan ditambah steam milk",
+            "harga":"25000",
+            "gambar":"cappucino.jpg"
+
+        },
+        {
+            "kategori": "espresso",
+            "nama" : "Long Black",
+            "deskripsi": "1 hingga 2 shoot espresso dan 2/3 air panas membuat body longblack lebih pekat dari americano",
+            "harga":"20000",
+            "gambar":"longblack.jpg"
+
+        },
+        {
+            "kategori": "espresso",
+            "nama" : "Doppio",
+            "deskripsi": "doubleshoots espresso based, dan 88 ml espresso",
+            "harga":"22000",
+            "gambar":"doppio.jpg"
+
+        },
+        {
+            "kategori": "espresso",
+            "nama" : "Affogato",
+            "deskripsi": "Dengan 2 scop ice cream dan ditambah dengan espresso yang membuat kenikmatan kopi dan ice cream",
+            "harga":"25000",
+            "gambar":"affogato.jpg"
+
+        },
+        {
+            "kategori": "espresso",
+            "nama" : "Kopi Susu",
+            "deskripsi": "Espresso based yang di tambah susu kental manis dan ice serta air yang membuat nikmat dari kesegaran kopi",
+            "harga":"18000",
+            "gambar":"kopisusu.jpg"
+
+        },
+        {
+            "kategori": "singleorigin",
+            "nama" : "v60",
+            "deskripsi": "kenikmatan dari biji kopi khas yang diseduh dengan metode v60 yang membuat biji yang khas tersebut memberikan rasa yang khas",
+            "harga":"20000",
+            "gambar":"v60.jpg"
+
+        }
+        
+    ]
+}
